@@ -1,6 +1,11 @@
 This is a project built to learn and understand about building **web based interactive dashboard** using **Streamlit.**
 <br />
 <br>
+The training for Streamlit was done via **Coursera Project Network:** https://coursera.org/share/928b3768b2288b53802624adba5ba2d7
+<br>
+As the result, the inspiration to build template of the dashboard was taken from the course.
+<br />
+<br>
 **Dataset was taken from Kaggle:** https://www.kaggle.com/datasets/pranaybshah/qatar-airways-reviews
 <br />
 The dataset has 2369 rows and 16 columns. 
